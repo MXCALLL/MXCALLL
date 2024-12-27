@@ -18,12 +18,13 @@
 
 <br/>
 <div align="left">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/muidbell" alt="muidbell's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/muidbell" alt="muidbell's 42 stats" /></a>
 </div>
 
 <div align= "center">
-HELLO HERE
+Put something Here
 <div>
+
 <br/>
 <div align= "left">
 
