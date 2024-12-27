@@ -1,3 +1,7 @@
+<a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF5733&section=header" />
+</a>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mustaphaidb&label=Profile%20views&color=0e75b6&style=flat" alt="MXCALLL" /> </p>
 
 <div align="center">
@@ -14,7 +18,15 @@
 
 <br/>
 <div align="left">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/muidbell" alt="muidbell's 42 stats" /></a>
-  <img align="right" alt="Matrix GIF" width=480 src="https://giphy.com/embed/eIm624c8nnNbiG0V3g" />
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/muidbell" alt="muidbell's 42 stats" /></a>
 </div>
-<p><a href="https://giphy.com/gifs/peacocktv-matrix-keanu-reeves-dodging-bullets-eIm624c8nnNbiG0V3g">via GIPHY</a></p>
+
+<div align= "center">
+HELLO HERE
+<div>
+<br/>
+<div align= "left">
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,nodejs,html,css,js,mysql,arduino,raspberrypi,bash,git,github,gitlab,figma,vscode,notion,azure,aws)](https://skillicons.dev)
+
+<dev>
