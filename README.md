@@ -17,7 +17,6 @@
   <div>
     <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/muidbell" alt="muidbell's 42 stats" /></a>
   </div>
-  <div style="flex-grow: 1;"></div>
+  <div style="flex-grow: 1;"></div> <!-- This div will take up remaining space -->
   <div>
     <iframe src="https://giphy.com/embed/eIm624c8nnNbiG0V3g" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  </div>
