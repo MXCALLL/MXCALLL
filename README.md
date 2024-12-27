@@ -13,13 +13,8 @@
 <h3 align="center"> A Passionate Cybersec Student From 🇲🇦</h3>
 
 <br/>
-<div style="display: flex; align-items: center;">
-  <div>
-    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/muidbell" alt="muidbell's 42 stats" /></a>
-  </div>
-  <div style="flex-grow: 1;"></div> <!-- This div will take up remaining space -->
-  <div>
-    <iframe src="https://giphy.com/embed/eIm624c8nnNbiG0V3g" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  </div>
+<div align="left">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/muidbell" alt="muidbell's 42 stats" /></a>
+  <img align="right" alt="Matrix GIF" width=480 src="https://giphy.com/embed/eIm624c8nnNbiG0V3g" />
 </div>
 <p><a href="https://giphy.com/gifs/peacocktv-matrix-keanu-reeves-dodging-bullets-eIm624c8nnNbiG0V3g">via GIPHY</a></p>
