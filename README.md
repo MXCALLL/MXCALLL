@@ -20,3 +20,6 @@
   <div style="flex-grow: 1;"></div> <!-- This div will take up remaining space -->
   <div>
     <iframe src="https://giphy.com/embed/eIm624c8nnNbiG0V3g" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  </div>
+</div>
+<p><a href="https://giphy.com/gifs/peacocktv-matrix-keanu-reeves-dodging-bullets-eIm624c8nnNbiG0V3g">via GIPHY</a></p>
