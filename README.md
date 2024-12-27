@@ -17,7 +17,7 @@
 <h3 align="center"> A Passionate Cybersec Student From Morocco 🇲🇦</h3>
 
 <br/>
-<div align="left">
+<div align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/muidbell" alt="muidbell's 42 stats" /></a>
 </div>
 
