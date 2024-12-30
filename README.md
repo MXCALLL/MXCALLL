@@ -31,7 +31,3 @@ Put something Here
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,nodejs,html,css,js,mysql,arduino,raspberrypi,bash,git,github,gitlab,figma,vscode,notion,azure,aws)](https://skillicons.dev)
 
 <dev>
-
-<a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF5733&section=footer" />
-</a>
