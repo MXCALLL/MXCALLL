@@ -67,57 +67,78 @@ OO0OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
 0OO00000OOO000OxdddxxxxxxxxxxxxxdloO0000O000000KK0000K000KKKKKKKKXN
 ```
 
-<!-- Cybersecurity Arsenal -->
-<h2 align="center">🛡️ Cybersecurity Arsenal</h2>
+<!-- Security Toolset -->
+<h2 align="center">🛠️ Security Toolset</h2>
 <div align="center">
     <table>
         <tr>
             <td align="center" width="96">
-                <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" width="48" height="48" alt="Metasploit" />
-                <br>Metasploit
-            </td>
-            <td align="center" width="96">
-                <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" width="48" height="48" alt="Wireshark" />
-                <br>Wireshark
-            </td>
-            <td align="center" width="96">
-                <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="48" height="48" alt="Burp Suite" />
+                <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="48" height="48" alt="Burp Suite" />
                 <br>Burp Suite
             </td>
             <td align="center" width="96">
-                <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" width="48" height="48" alt="Nmap" />
+                <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="48" height="48" alt="Nmap" />
                 <br>Nmap
             </td>
             <td align="center" width="96">
-                <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" width="48" height="48" alt="Kali Linux" />
-                <br>Kali Linux
+                <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="48" height="48" alt="Wireshark" />
+                <br>Wireshark
+            </td>
+            <td align="center" width="96">
+                <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="48" height="48" alt="Metasploit" />
+                <br>Metasploit
+            </td>
+            <td align="center" width="96">
+                <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="48" height="48" alt="SQLMap" />
+                <br>SQLMap
             </td>
         </tr>
         <tr>
             <td align="center" width="96">
-                <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/johntheripper.svg" width="48" height="48" alt="John The Ripper" />
+                <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="48" height="48" alt="Gobuster" />
+                <br>Gobuster
+            </td>
+            <td align="center" width="96">
+                <img src="https://www.kali.org/tools/john/images/john-logo.svg" width="48" height="48" alt="John" />
                 <br>John
             </td>
             <td align="center" width="96">
-                <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hashcat.svg" width="48" height="48" alt="Hashcat" />
-                <br>Hashcat
-            </td>
-            <td align="center" width="96">
-                <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hydra.svg" width="48" height="48" alt="Hydra" />
+                <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="48" height="48" alt="Hydra" />
                 <br>Hydra
             </td>
             <td align="center" width="96">
-                <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/aircrack-ng.svg" width="48" height="48" alt="Aircrack-ng" />
-                <br>Aircrack-ng
+                <img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" width="48" height="48" alt="ffuf" />
+                <br>ffuf
             </td>
             <td align="center" width="96">
-                <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/maltego.svg" width="48" height="48" alt="Maltego" />
-                <br>Maltego
+                <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="48" height="48" alt="Aircrack-ng" />
+                <br>Aircrack-ng
             </td>
         </tr>
     </table>
 </div>
 
+<!-- Operating Systems & Environments -->
+<h2 align="center">💻 Primary Operating Systems</h2>
+<div align="center">
+    <table>
+        <tr>
+            </td>
+            <td align="center" width="96">
+                <img src="https://www.kali.org/images/kali-logo.svg" width="48" height="48" alt="Kali" />
+                <br>Kali Linux
+            </td>
+            <td align="center" width="96">
+                <img src="https://img.icons8.com/color/512/parrot-security--v2.png" width="48" height="48" alt="ParrotOS" />
+                <br>ParrotOS
+            </td>
+            <td align="center" width="96">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="48" height="48" alt="Debian" />
+                <br>Debian
+            </td>
+        </tr>
+    </table>
+</div>
 <!-- Development Stack -->
 <h2 align="center">💻 Development Stack</h2>
 <div align="center">
@@ -152,8 +173,8 @@ OO0OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
 <div align="center">
     <img src="https://img.shields.io/badge/CTF%20Challenges%20Solved-42+-blue?style=for-the-badge&logo=flag&logoColor=white" />
     <img src="https://img.shields.io/badge/HTB%20Machines%20Pwned-13+-green?style=for-the-badge&logo=hackthebox&logoColor=white" />
-    <img src="https://img.shields.io/badge/CVEs%20Found-7+-red?style=for-the-badge&logo=target&logoColor=white" />
-    <img src="https://img.shields.io/badge/1337%20Projects-15+-orange?style=for-the-badge&logo=42&logoColor=white" />
+    <img src="https://img.shields.io/badge/TryHackme%20Machines-50+-green?style=for-the-badge&logo=tryhackme&logoColor=white" />
+    <img src="https://img.shields.io/badge/1337%20Projects-5+-orange?style=for-the-badge&logo=42&logoColor=white" />
 </div>
 
 <!-- TryHackMe Stats -->
@@ -176,37 +197,48 @@ OO0OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MXCALLL&theme=tokyo-night&bg_color=1F222E&color=FF5733&line=FF5733&point=FFFFFF&hide_border=true" />
 </div>
 
-<!-- Current Projects -->
-<h2 align="center">🔐 Active Operations</h2>
-<div align="center">
-    <a href="https://github.com/MXCALLL/SecurityToolkit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MXCALLL&repo=SecurityToolkit&theme=radical&bg_color=1F222E&title_color=FF5733&icon_color=FF5733&hide_border=true" />
-    </a>
-    <a href="https://github.com/MXCALLL/PenTestFramework">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MXCALLL&repo=PenTestFramework&theme=radical&bg_color=1F222E&title_color=FF5733&icon_color=FF5733&hide_border=true" />
+<!-- Contact Information -->
+<h2 align="center">Connect With Me</h2>
+
+<div align="center" style="background: linear-gradient(to right, #0a0a0a, #1a1a1a); padding: 20px; border-radius: 10px;">
+    <a href="mailto:idbellam12@gmail.com" target="_blank">
+        <img alt="Email" src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>&nbsp;
+    <a href="https://x.com/MustaphaID20" target="_blank">
+        <img alt="X/Twitter" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/>
+    </a>&nbsp;
+    <a href="https://www.linkedin.com/in/mustaphaidbella" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>&nbsp;
+    <a href="https://tryhackme.com/p/MXCALL" target="_blank">
+        <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+    </a>&nbsp;
+    <a href="https://app.hackthebox.com/profile/MXCALL" target="_blank">
+        <img alt="HackTheBox" src="https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+    </a>&nbsp;
+    <a href="https://discord.com/users/MXCALL" target="_blank">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
 </div>
 
-<!-- Contact Information -->
-<h2 align="center">📡 Secure Communication Channels</h2>
-<div align="center">
-    <a href="mailto:muidbell@student.1337.ma">
-        <img src="https://img.shields.io/badge/Email-PGP_Encrypted-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://tryhackme.com/p/MXCALL">
-        <img src="https://img.shields.io/badge/TryHackMe-Elite_Hacker-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" />
-    </a>
-    <a href="https://app.hackthebox.com/profile/MXCALL">
-        <img src="https://img.shields.io/badge/HackTheBox-Pro_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" />
-    </a>
+<!-- Stats and Activity Section -->
+<div align="center" style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/Status-Cybersecurity%20enthusiast-ff0000?style=for-the-badge&logo=shield&logoColor=white"/>
+</div>
+
+<!-- Skill Badges -->
+<div align="center" style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/Pentesting-🔒-red?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/CTF%20Player-🚩-blue?style=for-the-badge"/>
 </div>
 
 <!-- Security Quote -->
 <div align="center">
-    <h3>💭 Hacker's Wisdom</h3>
-    <blockquote>
-        <p><i>"Security is not a product, but a process. It's not about setting up barriers, but understanding how they can be broken."</i></p>
+    <h3>🔐 Hacker's Insight</h3>
+    <blockquote style="font-size: 1.2em; font-style: italic; color: #FF5733; border-left: 5px solid #FF5733; padding-left: 10px;">
+        "True security lies in mastering the art of thinking like an intruder, while building like a guardian."
     </blockquote>
+    <p style="font-style: italic; color: gray;">- Inspired by the Hacker Mindset</p>
 </div>
 
 <div align="center">
