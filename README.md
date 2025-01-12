@@ -6,14 +6,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&random=false&width=800&lines=Initiating+Secure+Connection...+%F0%9F%94%92;Hello+World!+I'm+Mustapha+%F0%9F%91%8B;Cybersecurity+Specialist+%F0%9F%94%90;1337+School+Student+%F0%9F%96%A5;Security+Researcher+%F0%9F%94%8D;Defending+The+Digital+Frontier+%F0%9F%9B%A1" />
 </h1>
-
-<!-- 42 Network Badge -->
-<p align="center">
-    <a href="https://github.com/oakoudad/badge42">
-        <img src="https://badge.mediaplus.ma/greenbinary/muidbell" alt="muidbell's 42 stats" />
-    </a>
-</p>
-
 <!-- Enhanced Security Badges -->
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=MXCALLL&color=FF5733&style=flat-square&label=Profile+Views" alt="profile views" />
@@ -22,6 +14,14 @@
     <img src="https://img.shields.io/badge/Security%20Status-Maximum%20Security-brightgreen" alt="security status" />
     <img src="https://img.shields.io/badge/Threat%20Level-Minimal-blue" alt="threat level" />
 </p>
+
+<!-- 42 Network Badge -->
+<p align="center">
+    <a href="https://github.com/oakoudad/badge42">
+        <img src="https://badge.mediaplus.ma/greenbinary/muidbell" alt="muidbell's 42 stats" />
+    </a>
+</p>
+<br>
 
 <!-- Terminal Style About Me -->
 <h2 align="center">🔒 System Information</h2>
@@ -66,6 +66,7 @@ OO0OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
 0OO0000OOO000Oxoodddxdddoooddxxxdolx0000000000KKK0000K00KKKKKKXXNW
 0OO00000OOO000OxdddxxxxxxxxxxxxxdloO0000O000000KK0000K000KKKKKKKKXN
 ```
+<br>
 
 <!-- Security Toolset -->
 <h2 align="center">🛠️ Security Toolset</h2>
@@ -117,6 +118,7 @@ OO0OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
         </tr>
     </table>
 </div>
+<br>
 
 <!-- Operating Systems & Environments -->
 <h2 align="center">💻 Primary Operating Systems</h2>
@@ -139,6 +141,8 @@ OO0OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
         </tr>
     </table>
 </div>
+<br>
+
 <!-- Development Stack -->
 <h2 align="center">💻 Development Stack</h2>
 <div align="center">
@@ -167,6 +171,7 @@ OO0OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
         </tr>
     </table>
 </div>
+<br>
 
 <!-- Security Metrics -->
 <h2 align="center">🎯 Security Achievement Metrics</h2>
@@ -176,6 +181,7 @@ OO0OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
     <img src="https://img.shields.io/badge/TryHackme%20Machines-50+-green?style=for-the-badge&logo=tryhackme&logoColor=white" />
     <img src="https://img.shields.io/badge/1337%20Projects-5+-orange?style=for-the-badge&logo=42&logoColor=white" />
 </div>
+<br>
 
 <!-- TryHackMe Stats -->
 <div align="center">
@@ -184,6 +190,7 @@ OO0OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
         <img src="https://tryhackme-badges.s3.amazonaws.com/MXCALL.png" alt="TryHackMe" />
     </a>
 </div>
+<br>
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 Operation Statistics</h2>
@@ -191,11 +198,13 @@ OO0OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MXCALLL&show_icons=true&theme=radical&bg_color=1F222E&title_color=FF5733&icon_color=FF5733&hide_border=true&count_private=true" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MXCALLL&theme=radical&background=1F222E&ring=FF5733&fire=FF5733&currStreakLabel=FF5733&hide_border=true" />
 </div>
+<br>
 
 <!-- Contribution Graph -->
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MXCALLL&theme=tokyo-night&bg_color=1F222E&color=FF5733&line=FF5733&point=FFFFFF&hide_border=true" />
 </div>
+<br>
 
 <!-- Contact Information -->
 <h2 align="center">Connect With Me</h2>
@@ -220,17 +229,20 @@ OO0OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
         <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
 </div>
+<br>
 
 <!-- Stats and Activity Section -->
 <div align="center" style="margin-top: 20px;">
     <img src="https://img.shields.io/badge/Status-Cybersecurity%20enthusiast-ff0000?style=for-the-badge&logo=shield&logoColor=white"/>
 </div>
+<br>
 
 <!-- Skill Badges -->
 <div align="center" style="margin-top: 20px;">
     <img src="https://img.shields.io/badge/Pentesting-🔒-red?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/CTF%20Player-🚩-blue?style=for-the-badge"/>
 </div>
+<br>
 
 <!-- Security Quote -->
 <div align="center">
@@ -240,7 +252,6 @@ OO0OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
     </blockquote>
     <p style="font-style: italic; color: gray;">- Inspired by the Hacker Mindset</p>
 </div>
-
 <div align="center">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF5733&height=120&section=footer" />
 </div>
