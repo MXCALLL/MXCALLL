@@ -16,17 +16,6 @@
     <img src="https://img.shields.io/badge/Threat%20Level-Minimal-blue" alt="threat level" />
 </p>
 
-<!-- 42 Network Badge -->
-<p align="center">
-    <a href="https://github.com/oakoudad/badge42">
-        <img src="https://badge.mediaplus.ma/greenbinary/muidbell" alt="muidbell's 42 stats" />
-    </a>
-</p>
-<br>
-
-<!-- Terminal Style About Me -->
-<h2 align="center">🔒 System Information</h2>
-
 ```bash
          WKd;o...............':dON
      MWXOo,..                ....;xX
@@ -40,7 +29,7 @@
  0:,coxxxxxdddoooddxxxxxxdoc:::::coxxkxo:lK
  0c;cdkkkxl:,'...,codddxdo;'.....';cdkOxcc0			        ┌─ Identity Verification ─────────────────────┐
  Kc,lxOkdc,'',,,,;:ldddddoc:::::cccldkOxc:O			        │ Codename: MXCALL                            │
- Xl,cxOkdlccc:;;;;;codxxdl:,;,'';:cldkOx:c0NW				│ Real Name: Mustapha Idbella                 │
+ Xl,cxOkdlccc:;@@@;codxxdl:,;@@@@:cldkOx:c0NW				│ Real Name: Mustapha Idbella                 │
 NKo,:xOkdoc;;'..'',coxxxxo:,,,',:ccloxkxcoxxkX				│ Location: Morocco MA                        │
 kdolldkkdoollc:;::loxxxxxxdlcccloooddxkxddxdxX				│ Status: Student at 1337 School (42 network) │
 kdxdodkkxxdddooooodxkxxxxkxddoooddxxxkkkdlldOW				│ Specialization: Cybersecurity               │
@@ -67,6 +56,14 @@ OO0OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
 0OO0000OOO000Oxoodddxdddoooddxxxdolx0000000000KKK0000K00KKKKKKXXNW
 0OO00000OOO000OxdddxxxxxxxxxxxxxdloO0000O000000KK0000K000KKKKKKKKXN
 ```
+
+
+<!-- 42 Network Badge -->
+<h2 align="center">1337 State of Code 🚀</h2>
+<div align="center">
+     <img src="https://badge.mediaplus.ma/greenbinary/muidbell" alt="muidbell's 42 stats" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJjanprMmU1eWE1ZWhsbGJrc3hpMmRqdnE1NGFxMXY1dGJ6M3F3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eIm624c8nnNbiG0V3g/giphy.gif" alt="GIF">
+</div>
 <br>
 
 <!-- Security Toolset -->
