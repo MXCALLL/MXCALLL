@@ -17,44 +17,44 @@
 </p>
 
 ```bash
-         WKd;o...............':dON
-     MWXOo,..                ....;xX
-     Nd,. ....                 ....;d0W
-   MXo..  ..             ............'oX
-   No. ........,,,,,,,,,,;cccc:;;::,...xW
-  Wx...,:cccclllooooooooodddddooooooc,.,OW                               ╔══════════════════════════════════════════╗
-  O,..:oddooodddddddddddddddddddddddol;.cK                               ║           SECURITY CLEARANCE FILE        ║
- Nl..:odxxdddddddddddddddddddddddddddol;,xW                              ╠══════════════════════════════════════════╣
- K:.,ldxxxddddddddddxdxxdxxxxddddddddxdc;lX
- 0:,coxxxxxdddoooddxxxxxxdoc:::::coxxkxo:lK
- 0c;cdkkkxl:,'...,codddxdo;'.....';cdkOxcc0			        ┌─ Identity Verification ─────────────────────┐
- Kc,lxOkdc,'',,,,;:ldddddoc:::::cccldkOxc:O			        │ Codename: MXCALL                            │
- Xl,cxOkdlccc:;@@@;codxxdl:,;@@@@:cldkOx:c0NW				│ Real Name: Mustapha Idbella                 │
-NKo,:xOkdoc;;'..'',coxxxxo:,,,',:ccloxkxcoxxkX				│ Location: Morocco MA                        │
-kdolldkkdoollc:;::loxxxxxxdlcccloooddxkxddxdxX				│ Status: Student at 1337 School (42 network) │
-kdxdodkkxxdddooooodxkxxxxkxddoooddxxxkkkdlldOW				│ Specialization: Cybersecurity               │
-Kdlcodxkkxxxxddddddxxxxxxxxxddddxxxxkkkxdc:lKW				└─────────────────────────────────────────────┘
-NxccoddxxxxxxxddoooooddodddddooddxxxxxxdoloON
-WXkdoddddxxdddddool:;;:::;,;clooddxxxxxddxONW				✓ Connection Secured • Encryption: AES-256
- WN0xdodxddxdddlc;,'',;;;,,',,,,coxxxxxkk0XW
-   WXKOddxddddl;..,;:llllllc;,,;:odxxxOXWW
-      NOdddddolc:,,;cllllllccclooodddxKW
-       Kdddoooooooolc::::::lodddoooddON
-       Xxoooooooodooc:;;;:cloddddolldKW
-       NOdolclooddoollllllloddddocclkX
-       NOddol:;:loooooooollllllc::ldON
-       NOxddol;,',;;;;;;;,'...';codx0W
-     MWXOxxddolc:,...........'codxxkKW
-   MWN0xxxxddddooolc:;,,,;;cloxxxxxk0NW
-WWNXKkclxxxxddddddddoooooooodxxxxxxxolONWW
-K000xccdxxxxdddddddoooooooodxxxxxkko;l0KKXXNWW
-00OOO0Oocldxxxxdddddooolllooodxxxxxxxo:lO0OO0KKXNW
-0OOOO0Oxodddddddddddoooooooddddxxxxxlcx00OO00KKKXXNWW
-0OOkOO0Oxddddddddddooooooddddddxxxolx000OO00KKKKKKKXNNW
-OOkkOO0Oxoodddddddooooooddddddddold00000000KKKKKKKKKKXXNWW
-OO0OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
-0OO0000OOO000Oxoodddxdddoooddxxxdolx0000000000KKK0000K00KKKKKKXXNW
-0OO00000OOO000OxdddxxxxxxxxxxxxxdloO0000O000000KK0000K000KKKKKKKKXN
+      WKd;o...............':dON
+   MWXOo,..                ....;xX
+   Nd,. ....                 ....;d0W
+ MXo..  ..             ............'oX
+No. ........,,,,,,,,,,;cccc:;;::,...xW
+x...,:cccclllooooooooodddddooooooc,.,OW              ╔══════════════════════════════════════════╗
+,..:oddooodddddddddddddddddddddddol;.cK              ║          SECURITY CLEARANCE FILE         ║
+..:odxxdddddddddddddddddddddddddddol;,xW             ╠══════════════════════════════════════════╣
+.,ldxxxddddddddddxdxxdxxxxddddddddxdc;lX
+,coxxxxxdddoooddxxxxxxdoc:::::coxxkxo:lK
+;cdkkkxl:,'...,codddxdo;'.....';cdkOxcc0            ┌─ Identity Verification ─────────────────────┐
+,lxOkdc,'',,,,;:ldddddoc:::::cccldkOxc:O            │ Codename: MXCALL                            │
+,cxOkdlccc:;@@@;codxxdl:,;@@@@:cldkOx:c0NW          │ Real Name: Mustapha Idbella                 │
+,:xOkdoc;;'..'',coxxxxo:,,,',:ccloxkxcoxxkX         │ Location: Morocco MA                        │
+lldkkdoollc:;::loxxxxxxdlcccloooddxkxddxdxX         │ Status: Student at 1337 School (42 network) │
+dodkkxxdddooooodxkxxxxkxddoooddxxxkkkdlldOW         │ Specialization: Cybersecurity               │
+codxkkxxxxddddddxxxxxxxxxddddxxxxkkkxdc:lKW         └─────────────────────────────────────────────┘
+coddxxxxxxxddoooooddodddddooddxxxxxxdoloON
+doddddxxdddddool:;;:::;,;clooddxxxxxddxONW           ✓ Connection Secured • Encryption: AES-256
+0xdodxddxdddlc;,'',;;;,,',,,,coxxxxxkk0XW
+ XKOddxddddl;..,;:llllllc;,,;:odxxxOXWW
+   NOdddddolc:,,;cllllllccclooodddxKW
+    Kdddoooooooolc::::::lodddoooddON
+    Xxoooooooodooc:;;;:cloddddolldKW
+    NOdolclooddoollllllloddddocclkX
+    NOddol:;:loooooooollllllc::ldON
+    NOxddol;,',;;;;;;;,'...';codx0W
+  MWXOxxddolc:,...........'codxxkKW
+MWN0xxxxddddooolc:;,,,;;cloxxxxxk0NW
+XKkclxxxxddddddddoooooooodxxxxxxxolONWW
+0xccdxxxxdddddddoooooooodxxxxxkko;l0KKXXNWW
+OO0Oocldxxxxdddddooolllooodxxxxxxxo:lO0OO0KKXNW
+OO0Oxodddddddddddoooooooddddxxxxxlcx00OO00KKKXXNWW
+kOO0Oxddddddddddooooooddddddxxxolx000OO00KKKKKKKXNNW
+kOO0Oxoodddddddooooooddddddddold00000000KKKKKKKKKKXXNWW
+OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
+0000OOO000Oxoodddxdddoooddxxxdolx0000000000KKK0000K00KKKKKKXXNW
+00000OOO000OxdddxxxxxxxxxxxxxdloO0000O000000KK0000K000KKKKKKKKXN
 ```
 
 
