@@ -61,8 +61,8 @@ OO0OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
 <!-- 42 Network Badge -->
 <h2 align="center">1337 State of Code 🚀</h2>
 <div align="center">
-     <img src="https://badge.mediaplus.ma/greenbinary/muidbell" alt="muidbell's 42 stats" style="width: 450px; height: auto;" />
-     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJjanprMmU1eWE1ZWhsbGJrc3hpMmRqdnE1NGFxMXY1dGJ6M3F3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eIm624c8nnNbiG0V3g/giphy.gif" alt="GIF" style="width: 450px; height: auto;" />
+     <img src="https://badge.mediaplus.ma/greenbinary/muidbell" alt="muidbell's 42 stats" style="width: 430px; height: auto;" />
+     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJjanprMmU1eWE1ZWhsbGJrc3hpMmRqdnE1NGFxMXY1dGJ6M3F3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eIm624c8nnNbiG0V3g/giphy.gif" alt="GIF" style="width: 430px; height: auto;" />
 </div>
 
 <br>
