@@ -26,13 +26,13 @@ x...,:cccclllooooooooodddddooooooc,.,OW              ╔════════
 ..:odxxdddddddddddddddddddddddddddol;,xW             ╠══════════════════════════════════════════╣
 .,ldxxxddddddddddxdxxdxxxxddddddddxdc;lX
 ,coxxxxxdddoooddxxxxxxdoc:::::coxxkxo:lK
-;cdkkkxl:,'...,codddxdo;'.....';cdkOxcc0            ┌─ Identity Verification ─────────────────────┐
-,lxOkdc,'',,,,;:ldddddoc:::::cccldkOxc:O            │ Codename: MXCALL                            │
-,cxOkdlccc:;@@@;codxxdl:,;@@@@:cldkOx:c0NW          │ Real Name: Mustapha Idbella                 │
-,:xOkdoc;;'..'',coxxxxo:,,,',:ccloxkxcoxxkX         │ Location: Morocco MA                        │
-lldkkdoollc:;::loxxxxxxdlcccloooddxkxddxdxX         │ Status: Student at 1337 School (42 network) │
-dodkkxxdddooooodxkxxxxkxddoooddxxxkkkdlldOW         │ Specialization: Cybersecurity               │
-codxkkxxxxddddddxxxxxxxxxddddxxxxkkkxdc:lKW         └─────────────────────────────────────────────┘
+;cdkkkxl:,'...,codddxdo;'.....';cdkOxcc0            ┌─ Identity Verification ────────────────────────────────┐
+,lxOkdc,'',,,,;:ldddddoc:::::cccldkOxc:O            │ Codename: MXCALL                                       │
+,cxOkdlccc:;@@@;codxxdl:,;@@@@:cldkOx:c0NW          │ Real Name: Mustapha Idbella                            │
+,:xOkdoc;;'..'',coxxxxo:,,,',:ccloxkxcoxxkX         │ Location: Morocco MA                                   │
+lldkkdoollc:;::loxxxxxxdlcccloooddxkxddxdxX         │ Status: Student at 1337 School (42 network)            │
+dodkkxxdddooooodxkxxxxkxddoooddxxxkkkdlldOW         │ Specialization: Developer and Cybersecurity enthusiast │
+codxkkxxxxddddddxxxxxxxxxddddxxxxkkkxdc:lKW         └────────────────────────────────────────────────────────┘
 coddxxxxxxxddoooooddodddddooddxxxxxxdoloON
 doddddxxdddddool:;;:::;,;clooddxxxxxddxONW           ✓ Connection Secured • Encryption: AES-256
 0xdodxddxdddlc;,'',;;;,,',,,,coxxxxxkk0XW
@@ -60,114 +60,8 @@ OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
 <!-- 42 Network Badge -->
 <h2 align="center">1337 State of Code 🚀</h2>
 <div align="center">
-     <img src="https://badge.mediaplus.ma/greenbinary/muidbell" alt="muidbell's 42 stats" style="width: 420px; height: auto;" />
+     <img src="https://badge.mediaplus.ma/greenbinary/muidbell" alt="muidbell's 42 stats" style="width: 389px; height: auto;" />
      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJjanprMmU1eWE1ZWhsbGJrc3hpMmRqdnE1NGFxMXY1dGJ6M3F3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eIm624c8nnNbiG0V3g/giphy.gif" alt="GIF" style="width: 420px; height: auto;" />
-</div>
-
-<br>
-
-<!-- Security Toolset -->
-<h2 align="center">🛠️ Security Toolset</h2>
-<div align="center">
-    <table>
-        <tr>
-            <td align="center" width="96">
-                <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="48" height="48" alt="Burp Suite" />
-                <br>Burp Suite
-            </td>
-            <td align="center" width="96">
-                <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="48" height="48" alt="Nmap" />
-                <br>Nmap
-            </td>
-            <td align="center" width="96">
-                <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="48" height="48" alt="Wireshark" />
-                <br>Wireshark
-            </td>
-            <td align="center" width="96">
-                <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="48" height="48" alt="Metasploit" />
-                <br>Metasploit
-            </td>
-            <td align="center" width="96">
-                <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="48" height="48" alt="SQLMap" />
-                <br>SQLMap
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="96">
-                <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="48" height="48" alt="Gobuster" />
-                <br>Gobuster
-            </td>
-            <td align="center" width="96">
-                <img src="https://www.kali.org/tools/john/images/john-logo.svg" width="48" height="48" alt="John" />
-                <br>John
-            </td>
-            <td align="center" width="96">
-                <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="48" height="48" alt="Hydra" />
-                <br>Hydra
-            </td>
-            <td align="center" width="96">
-                <img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" width="48" height="48" alt="ffuf" />
-                <br>ffuf
-            </td>
-            <td align="center" width="96">
-                <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="48" height="48" alt="Aircrack-ng" />
-                <br>Aircrack-ng
-            </td>
-        </tr>
-    </table>
-</div>
-<br>
-
-<!-- Operating Systems & Environments -->
-<h2 align="center">💻 Primary Operating Systems</h2>
-<div align="center">
-    <table>
-        <tr>
-            </td>
-            <td align="center" width="96">
-                <img src="https://www.kali.org/images/kali-logo.svg" width="48" height="48" alt="Kali" />
-                <br>Kali Linux
-            </td>
-            <td align="center" width="96">
-                <img src="https://img.icons8.com/color/512/parrot-security--v2.png" width="48" height="48" alt="ParrotOS" />
-                <br>ParrotOS
-            </td>
-            <td align="center" width="96">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="48" height="48" alt="Debian" />
-                <br>Debian
-            </td>
-        </tr>
-    </table>
-</div>
-<br>
-
-<!-- Development Stack -->
-<h2 align="center">💻 Development Stack</h2>
-<div align="center">
-    <table>
-        <tr>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-                <br>C
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-                <br>Python
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-                <br>Bash
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-                <br>Docker
-            </td>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-                <br>Git
-            </td>
-        </tr>
-    </table>
 </div>
 <br>
 
@@ -205,7 +99,7 @@ OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
 <br>
 
 <!-- Contact Information -->
-<h2 align="center">Connect With Me</h2>
+<h2 align="center">📬 Reach Out to Me!</h2>
 
 <div align="center" style="background: linear-gradient(to right, #0a0a0a, #1a1a1a); padding: 20px; border-radius: 10px;">
     <a href="mailto:idbellam12@gmail.com" target="_blank">
@@ -217,38 +111,17 @@ OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
     <a href="https://www.linkedin.com/in/mustaphaidbella" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>&nbsp;
-    <a href="https://tryhackme.com/p/MXCALL" target="_blank">
-        <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-    </a>&nbsp;
-    <a href="https://app.hackthebox.com/profile/MXCALL" target="_blank">
-        <img alt="HackTheBox" src="https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-    </a>&nbsp;
     <a href="https://discord.com/users/MXCALL" target="_blank">
         <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
 </div>
 <br>
-
 <!-- Stats and Activity Section -->
 <div align="center" style="margin-top: 20px;">
     <img src="https://img.shields.io/badge/Status-Cybersecurity%20enthusiast-ff0000?style=for-the-badge&logo=shield&logoColor=white"/>
 </div>
 <br>
 
-<!-- Skill Badges -->
-<div align="center" style="margin-top: 20px;">
-    <img src="https://img.shields.io/badge/Pentesting-🔒-red?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/CTF%20Player-🚩-blue?style=for-the-badge"/>
-</div>
-<br>
-
-<!-- Security Quote -->
-<div align="center">
-    <h3>🔐 Hacker's Insight</h3>
-    <blockquote style="font-size: 1.2em; font-style: italic; color: #FF5733; border-left: 5px solid #FF5733; padding-left: 10px;">
-        "True security lies in mastering the art of thinking like an intruder, while building like a guardian."
-    </blockquote>
-    <p style="font-style: italic; color: gray;">- Inspired by the Hacker Mindset</p>
 </div>
 <div align="center">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF5733&height=120&section=footer" />
