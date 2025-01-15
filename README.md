@@ -21,13 +21,13 @@
    Nd,. ....                 ....;d0W
  MXo..  ..             ............'oX
 No. ........,,,,,,,,,,;cccc:;;::,...xW
-x...,:cccclllooooooooodddddooooooc,.,OW              ╔══════════════════════════════════════════╗
-,..:oddooodddddddddddddddddddddddol;.cK              ║          SECURITY CLEARANCE FILE         ║
-..:odxxdddddddddddddddddddddddddddol;,xW             ╠══════════════════════════════════════════╣
+x...,:cccclllooooooooodddddooooooc,.,OW              ╔══════════════════════════════════════════════════════╗
+,..:oddooodddddddddddddddddddddddol;.cK              ║                SECURITY CLEARANCE FILE               ║
+..:odxxdddddddddddddddddddddddddddol;,xW             ╠══════════════════════════════════════════════════════╣
 .,ldxxxddddddddddxdxxdxxxxddddddddxdc;lX
 ,coxxxxxdddoooddxxxxxxdoc:::::coxxkxo:lK
 ;cdkkkxl:,'...,codddxdo;'.....';cdkOxcc0            ┌─ Identity Verification ────────────────────────────────┐
-,lxOkdc,'',,,,;:ldddddoc:::::cccldkOxc:O            │ Codename: MXCALL                                       │
+,lxOkdc,'',,,,;:ldddddoc:::::cccldkOxc:O            │ Username: MXCALL                                       │
 ,cxOkdlccc:;@@@;codxxdl:,;@@@@:cldkOx:c0NW          │ Real Name: Mustapha Idbella                            │
 ,:xOkdoc;;'..'',coxxxxo:,,,',:ccloxkxcoxxkX         │ Location: Morocco MA                                   │
 lldkkdoollc:;::loxxxxxxdlcccloooddxkxddxdxX         │ Status: Student at 1337 School (42 network)            │
