@@ -88,10 +88,9 @@ OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
 <h2 align="center">📊 Operation Statistics</h2>
 <div align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MXCALLL&show_icons=true&theme=radical&bg_color=1F222E&title_color=FF5733&icon_color=FF5733&hide_border=true&count_private=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MXCALLL&theme=radical&background=1F222E&ring=FF5733&fire=FF5733&currStreakLabel=FF5733&hide_border=true" />
+    <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MXCALLL&layout=compact&theme=radical&bg_color=1F222E&title_color=FF5733&hide_border=true" />
 </div>
 <br>
-
 <!-- Contribution Graph -->
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MXCALLL&theme=tokyo-night&bg_color=1F222E&color=FF5733&line=FF5733&point=FFFFFF&hide_border=true" />
