@@ -4,7 +4,7 @@
 
 <!-- Dynamic Typing Effect -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&random=false&width=800&lines=Initiating+Secure+Connection...+%F0%9F%94%92;Hello+World!+%F0%9F%91%8B;Cybersecurity+Specialist+%F0%9F%94%90;1337+School+Student+%F0%9F%96%A5;Security+Researcher+%F0%9F%94%8D;Defending+The+Digital+Frontier+%F0%9F%9B%A1" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&random=false&width=800&lines=Hello+World!+%F0%9F%91%8B;Cybersecurity+enthusiast+%F0%9F%94%90;1337+School+Student+%F0%9F%96%A5" />
 </h1>
 <!-- Enhanced Security Badges -->
 <p align="center">
