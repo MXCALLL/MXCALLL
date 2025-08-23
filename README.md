@@ -4,7 +4,7 @@
 
 <!-- Dynamic Typing Effect -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&random=false&width=800&lines=Hello+World!+%F0%9F%91%8B;Cybersecurity+enthusiast+%F0%9F%94%90;1337+School+Student+%F0%9F%96%A5" />
+    <img src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&random=false&width=800&lines=printf("Hello+World");1337+School+Student+%F0%9F%96%A5' />
 </h1>
 <!-- Enhanced Security Badges -->
 <p align="center">
@@ -62,25 +62,6 @@ OOOOO0Okooodddddoooooooodddddold000000000KKKK0KKKKKKKKKXNW
 <div align="center">
      <img src="https://badge.mediaplus.ma/greenbinary/muidbell" alt="muidbell's 42 stats" style="width: 389px; height: auto;" />
      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJjanprMmU1eWE1ZWhsbGJrc3hpMmRqdnE1NGFxMXY1dGJ6M3F3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eIm624c8nnNbiG0V3g/giphy.gif" alt="GIF" style="width: 420px; height: auto;" />
-</div>
-<br>
-
-<!-- Security Metrics -->
-<h2 align="center">🎯 Security Achievement Metrics</h2>
-<div align="center">
-    <img src="https://img.shields.io/badge/CTF%20Challenges%20Solved-42+-blue?style=for-the-badge&logo=flag&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTB%20Machines%20Pwned-13+-green?style=for-the-badge&logo=hackthebox&logoColor=white" />
-    <img src="https://img.shields.io/badge/TryHackme%20Machines-50+-green?style=for-the-badge&logo=tryhackme&logoColor=white" />
-    <img src="https://img.shields.io/badge/1337%20Projects-5+-orange?style=for-the-badge&logo=42&logoColor=white" />
-</div>
-<br>
-
-<!-- TryHackMe Stats -->
-<div align="center">
-    <h3>🏆 TryHackMe Progress</h3>
-    <a href="https://tryhackme.com/p/MXCALL">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/MXCALL.png" alt="TryHackMe" />
-    </a>
 </div>
 <br>
 
